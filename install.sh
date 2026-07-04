@@ -65,19 +65,21 @@ install_dependencies() {
         postgresql-contrib \
         libnss3 \
         libnspr4 \
-        libatk1.0-0 \
-        libatk-bridge2.0-0 \
-        libcups2 \
+        libnss3 \
+        libnspr4 \
+        libatk1.0-0t64 \
+        libatk-bridge2.0-0t64 \
+        libcups2t64 \
         libdrm2 \
         libdbus-1-3 \
         libxkbcommon0 \
-        libatspi2.0-0 \
+        libatspi2.0-0t64 \
         libxcomposite1 \
         libxdamage1 \
         libxfixes3 \
         libxrandr2 \
         libgbm1 \
-        libasound2 \
+        libasound2t64 \
         libpango-1.0-0 \
         libcairo2
     
